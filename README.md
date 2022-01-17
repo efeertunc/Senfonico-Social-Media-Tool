@@ -12,3 +12,7 @@ You can access the source code from https://github.com/efeertunc/Senfonico-Socia
 # Contact
 
 If you have any question, you can contact me via eertunc19@ku.edu.tr
+
+# References
+
+This project was developed with reference to <br /> https://github.com/Wanderson-Magalhaes/App_Bank_GUI_v01_PySide_Or_PyQt_Qt_Quick_QML
